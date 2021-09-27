@@ -2,3 +2,4 @@ My favourite biomechanics areas are:
 1. feet
 2. energetics
 3. locomotion
+4. shape modelling
